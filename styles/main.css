@@ -1,0 +1,21 @@
+.mainstyle{
+    border: 2px solid rgb(249, 78, 78);
+    height:auto;
+    font-size: small;
+    width: auto;
+    background-color: rgb(194, 214, 150);
+}
+
+
+.secondstyle{
+     display:contents;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+.thirdstyle{
+    color: black;
+    margin-right: 20px;
+    font-size: small;
+
+}
